@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro",
+      "desc": "Apple iPhone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://images.unsplash.com/photo-1611791485440-24e8239a0377?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aXBob25lJTIwMTIlMjBwcm98ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "name": "Real me X2",
+      "desc": "5g phone",
+      "price": 18000,
+      "color": "#33505a",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa7MLeV-IA66hRu8hmvs-02kCoaVlJOHc8lg&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Nothing Phone 1",
+      "desc": "5g phone",
+      "price": 36000,
+      "color": "#33505a",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZuDwdbRx_TdCZvUL1oz6vQUaernzB4JEtdA&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "Oppo",
+      "desc": "5g phone",
+      "price": 25000,
+      "color": "#33505a",
+      "image": "https://htsg-store-gl.heytapimg.com/ebp/202108/11/1-M00-00-3C-CgGRkWETmsuAJ9buAACooRGkyIg493_1080_960.jpg"
+    },
+    {
+      "id": 5,
+      "name": "oneplus 10",
+      "desc": "Apple se achha hai ji",
+      "price": 40000,
+      "color": "#33505a",
+      "image": "https://cdn.shopify.com/s/files/1/0640/6363/products/Untitleddesign_1_5ccce6b0-54e7-4212-8fea-51b8919cc50b@2x.png?v=1642396978"
+    }
+  ]
+}
